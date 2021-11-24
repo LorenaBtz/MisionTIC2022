@@ -1,0 +1,19 @@
+{
+  "spellcheck": true,
+  "spellcheckDictionary": [
+    "Ciclo",
+    "Desarrollo",
+    "de",
+    "Programadores",
+    "Mentalmete",
+    "Saludables",
+    "Programación",
+    "Básica",
+    "Fundamentos",
+    "Aplicaciones"
+  ],
+  "foldHeading": true,
+  "foldIndent": true,
+  "promptDelete": true,
+  "defaultViewMode": "source"
+}
