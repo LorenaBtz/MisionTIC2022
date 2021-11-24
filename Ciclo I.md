@@ -109,21 +109,24 @@ gantt
 	title Calendario MisiónTIC 2022
 		
 	section English
-		Session I : done, des1, 2021-04-03, 3d
-		Session II : done, des2, after des1, 3d
-		Session III : done, des3, after des2, 3d
-		Session IV : done, des4, after des3, 3d
-		Session V : done, des5, after des4, 3d
-		MidTerm Exam : milestone, m1, after des5, 3d
-		Session VII : done, des7, after m1, 3d
-		Session VIII : done, des8, after des7, 3d
-		Session IX : done, des9, after des8, 3d
-		Session X : done, des10, after des9, 3d
-		Session XI : done, des11, after des10, 3d
-		Session XII : done, des12, after des11, 3d
-		Final Test : milestone, des13, after des12, 3d
+		Session I : done, des1, 2021-05-04, 1d
+		Session II : done, des2, 2021-05-06, 1d
+		Session III : done, des3, 2021-05-11, 1d
+		Session IV : done, des4, 2021-05-13, 1d
+		Session V : done, des5, 2021-05-18, 1d
+		MidTerm Exam : milestone, m1, 2021-05-20, 1d
+		Session VII : done, des7, 2021-05-25, 1d
+		Session VIII : done, des8, 2021-05-27, 1d
+		Session IX : done, des9, 2021-06-01, 1d
+		Session X : done, des10, 2021-06-03, 1d
+		Session XI : done, des11, 2021-06-08, 1d
+		Session XII : done, des12, 2021-06-10, 1d
+		Final Test : milestone, des13, 2021-06-15, 1d
 ```
 
+### Session 1
+Worksheet 1.1. Problem solving and Critiquing
+PPT 1.1. Problem solving and Critiquing
 
 # [[Programadores Mentalmente Saludables I]]
 # [[Coaching I]]

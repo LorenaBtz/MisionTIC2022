@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 172,
-    "collapsed": true
+    "width": 172
   },
   "right": {
     "id": "d56e919ba778c578",
@@ -66,6 +65,7 @@
   "active": "23d1b30228b26f0b",
   "lastOpenFiles": [
     "Ciclo I.md",
+    "Day Planners/Day Planner-20211123.md",
     "MisiónTIC 2022.md",
     "Untitled.md",
     "Ciclo IV.md",
@@ -73,7 +73,6 @@
     "Ciclo IV/Coaching IV.md",
     "Ciclo IV/Programadores Mentalmete Saludables IV.md",
     "Ciclo IV/English IV.md",
-    "Ciclo IV/Desarrollo de Aplicaciones Web.md",
-    "Ciclo III/Coaching III.md"
+    "Ciclo IV/Desarrollo de Aplicaciones Web.md"
   ]
 }
