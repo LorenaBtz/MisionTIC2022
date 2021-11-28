@@ -1,1 +1,8 @@
-[]
+[
+  "obsidian-admonition",
+  "calendar",
+  "obsidian-checklist-plugin",
+  "obsidian-emoji-toolbar",
+  "obsidian-icons-plugin",
+  "obsidian-git"
+]

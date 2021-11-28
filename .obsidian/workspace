@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ciclo I/Fundamentos de Programación.md",
+            "file": "MisiónTIC 2022.md",
             "mode": "preview"
           }
         }
@@ -52,22 +52,44 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237,
-    "collapsed": true
+    "width": 237
   },
   "right": {
     "id": "d56e919ba778c578",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "6150f3d28ca17652",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4491cf7f36072012",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "eb06912f2446bc9a",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
   "active": "c8b888fdd64bf7cd",
   "lastOpenFiles": [
+    "MisiónTIC 2022.md",
     "Ciclo I/Fundamentos de Programación.md",
     "Ciclo I.md",
-    "MisiónTIC 2022.md",
     "Ciclo II/Programación Básica.md",
     "Ciclo II.md",
     "Ciclo III.md",
