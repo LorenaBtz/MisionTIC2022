@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "c8b888fdd64bf7cd",
+        "id": "3ffe97c0fa1ba4c4",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MisiónTIC 2022.md",
-            "mode": "preview"
+            "file": "Ciclo III.md",
+            "mode": "source"
           }
         }
       }
@@ -85,17 +85,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c8b888fdd64bf7cd",
+  "active": "3ffe97c0fa1ba4c4",
   "lastOpenFiles": [
+    "Ciclo III.md",
+    "mailtocristian.castrillon@ucaldas.edu.co.md",
+    "Ciclo I/Coaching I.md",
+    "Ciclo II/Programadores Mentalmente Saludables II.md",
+    "Ciclo II/Programación Básica.md",
+    "Ciclo II/English II.md",
+    "Ciclo II/Coaching II.md",
     "MisiónTIC 2022.md",
     "Ciclo I/Fundamentos de Programación.md",
-    "Ciclo I.md",
-    "Ciclo II/Programación Básica.md",
-    "Ciclo II.md",
-    "Ciclo III.md",
-    "Ciclo IV.md",
-    "Ciclo IV/Desarrollo de Aplicaciones Moviles.md",
-    "Ciclo IV/Desarrollo de Aplicaciones Web.md",
-    "Ciclo I/English I.md"
+    "Ciclo I.md"
   ]
 }
